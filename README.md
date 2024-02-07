@@ -35,7 +35,7 @@ For any technical support or queries, please open an issue in the repository, an
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License
 
 The MIT License is a permissive free software license that allows for unlimited freedom with the software as long as the original copyright and license notice are included with any substantial portion of the software.
 
