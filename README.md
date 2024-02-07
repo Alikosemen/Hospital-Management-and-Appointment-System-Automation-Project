@@ -41,4 +41,33 @@ The MIT License is a permissive free software license that allows for unlimited 
 
 Heart Rhythm Hospital Management and Appointment System Automation - Simplifying healthcare management and patient care.
 
+## Project Images
+
+<!-- Main Page Image -->
+<img src="Project Images\1.png" alt="Main Page" width="700"/>
+
+<!-- Side by Side Images for Login Pages -->
+<div>
+  <img src="Project Images\2.png" alt="Patient Login" width="500"/>
+  <img src="Project Images\8.png" alt="Assistant Login" width="500"/>
+</div>
+
+<!-- Appointment List Image -->
+<img src="Project Images\9.png" alt="Appointment List" width="800"/>
+
+<!-- Announcements Image -->
+<img src="Project Images\10.png" alt="Announcements" width="800"/>
+
+<!-- Side by Side Images for Details and Editing -->
+<div>
+  <img src="Project Images\3.png" alt="Patient Details" width="850"/>
+  <img src="Project Images\4.png" alt="Doctor Details" width="850"/>
+</div>
+
+<!-- Side by Side Images for Assistant Panels -->
+<div>
+  <img src="Project Images\6.png" alt="Assistant Panel 1" width="900"/>
+  <img src="Project Images\7.png" alt="Assistant Panel 2" width="900"/>
+</div>
+
 
